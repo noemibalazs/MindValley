@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mind Valley</string>
+    <string name="list">Pinterest</string>
+    <string name="favorite">Favorite</string>
+    <string name="show">show</string>
+    <string name="toast">Something went wrong, try it later!</string>
+    <string name="sorry_no_pictures">Sorry, no pictures!</string>
+    <string name="sorry_no_connection">Sorry, no internet connection!</string>
+    <string name="sorry_something">Sorry, something went wrong, try it later!</string>
+    <string name="saved">Saved by </string>
+    <string name="pin_detail">Pin Details</string>
+    <string name="delete">Delete</string>
+</resources>
